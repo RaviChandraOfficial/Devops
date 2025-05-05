@@ -1,0 +1,1 @@
+Installing Az module => Install-Module -Name AZ -Force
